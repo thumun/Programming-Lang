@@ -1,0 +1,6 @@
+
+[
+    {"FirstName": "Neha", "LastName": "Thumu", "Id": "000001", "Age": 19, "DoB": {"Year": 2002, "Month":"04", "Day":23}, "FavoriteRealNumber": 4},
+    {"FirstName": "Pac", "LastName": "Man", "Id": "000002", "Age": 41, "DoB": {"Year": 1980, "Month":"05", "Day":22}, "FavoriteRealNumber": 2},
+    {"FirstName": "Naruto", "LastName": "Uzumaki", "Id": "000003", "Age": 13, "DoB": {"Year": 1987, "Month":"10", "Day":10}, "FavoriteRealNumber": 3}
+]

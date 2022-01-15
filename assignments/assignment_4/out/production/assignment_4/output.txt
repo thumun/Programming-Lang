@@ -1,0 +1,45 @@
+aa
+Boy 	Aaron     		 2	19088	0.5524
+	alphabetic position 1
+Girl	Aaliyah   		 2	 4848	0.1702
+	alphabetic position 1
+
+Dev
+Boy 	Devan     		 2	  961	0.0278
+	alphabetic position 270
+Boy 	Devante   		 2	  407	0.0118
+	alphabetic position 271
+Boy 	Deven     		 2	  956	0.0277
+	alphabetic position 272
+Boy 	Devin     		 2	12191	0.3528
+	alphabetic position 273
+Boy 	Devon     		 2	 5695	0.1648
+	alphabetic position 274
+Boy 	Devonte   		 2	  825	0.0239
+	alphabetic position 275
+Boy 	Devyn     		 2	  655	0.0190
+	alphabetic position 276
+Girl	Devin     		 2	  912	0.0320
+	alphabetic position 292
+Girl	Devon     		 2	  665	0.0234
+	alphabetic position 293
+Girl	Devyn     		 2	  641	0.0225
+	alphabetic position 294
+
+sy
+Boy 	Syed      		 2	  391	0.0113
+	alphabetic position 907
+Girl	Sydnee    		 2	  923	0.0324
+	alphabetic position 928
+Girl	Sydney    		 2	19879	0.6981
+	alphabetic position 929
+Girl	Sydni     		 2	  867	0.0304
+	alphabetic position 930
+Girl	Sydnie    		 2	  657	0.0231
+	alphabetic position 931
+Girl	Sylvia    		 2	 1052	0.0369
+	alphabetic position 932
+
+michelle
+Girl	Michelle  		 2	10573	0.3713
+	alphabetic position 749

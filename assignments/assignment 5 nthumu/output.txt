@@ -1,0 +1,27 @@
+Aaron
+Boy     Aaron                   10      86882   0.5024
+                alphabetic position 1
+
+Devon
+Boy     Devon                   10      21616   0.1250
+                alphabetic position 270
+Boy     Devonte                 8       2327    0.0168
+                alphabetic position 271
+Girl    Devon                   6       1814    0.0214
+                alphabetic position 286
+
+marlen
+Girl    Marlen                  2       471     0.0165
+                alphabetic position 722
+Girl    Marlene                 10      5278    0.0374
+                alphabetic position 718
+
+syd
+Girl    Sydnee                  10      3841    0.0273
+                alphabetic position 926
+Girl    Sydney                  10      76422   0.5422
+                alphabetic position 927
+Girl    Sydni                   5       1759    0.0249
+                alphabetic position 928
+Girl    Sydnie                  5       1421    0.0201
+                alphabetic position 929
